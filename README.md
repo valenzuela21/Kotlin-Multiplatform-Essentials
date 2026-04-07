@@ -7,11 +7,11 @@
       <b>Pallete</b>
     </td>
     <td align="center">
-      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/pallette-room.png?raw=true" width="100"><br>
+      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/pallette-room.png?raw=true" width="90"><br>
       <b>Pallete Room</b>
     </td>
     <td align="center">
-      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/splitbill.png?raw=true" width="100"><br>
+      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/splitbill.png?raw=true" width="90"><br>
       <b>Splitbill</b>
     </td>
   </tr>
