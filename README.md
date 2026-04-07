@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/shoppingList-uiNative.png?raw=true" width="80"><br>
+      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/shoppingList-uiNative.png?raw=true" width="78"><br>
       <b>ShoppingList Ui Native</b>
     </td>
     <td align="center">
@@ -25,7 +25,7 @@
       <b>Itunes Search Api</b>
     </td>
     <td align="center">
-      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/datastore-test-setting.png?raw=true" width="100"><br>
+      <img src="https://github.com/valenzuela21/Kotlin-Multiplatform-Essentials/blob/master/screenshot/datastore-test-setting.png?raw=true" width="80"><br>
       <b>DataStore Setting</b>
     </td>
   </tr>
